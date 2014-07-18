@@ -28,6 +28,9 @@ Notes:
 0.0.3 (Unreleased)
 - Add option to configure underscore's template settings (i.e. to customize template delimeters)
 
+0.0.4
+- Add underscore.js as a default dependency for compiled templates
+
 ## Installation
 
 Download UnderscoreJS and RequireJS-text:
