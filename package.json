@@ -15,9 +15,6 @@
             "web": "http://www.jeanfrancoisparadis.com"
         }
     ],
-    "dependencies": {
-        "http://github.com/Rhinofly/requirejs-tpl": "master"
-    },
     "bugs": {
         "url": "https://github.com/Rhinofly/requirejs-tpl/issues"
     },
