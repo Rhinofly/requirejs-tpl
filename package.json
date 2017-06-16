@@ -16,15 +16,15 @@
         }
     ],
     "dependencies": {
-        "http://github.com/jfparadis/requirejs-tpl": "master"
+        "http://github.com/Rhinofly/requirejs-tpl": "master"
     },
     "bugs": {
-        "url": "https://github.com/jfparadis/requirejs-tpl/issues"
+        "url": "https://github.com/Rhinofly/requirejs-tpl/issues"
     },
     "repositories": [
         {
             "type": "git",
-            "url": "git@github.com:jfparadis/requirejs-tpl.git"
+            "url": "git@github.com:Rhinofly/requirejs-tpl.git"
             }
     ],
     "licenses": [
@@ -33,5 +33,5 @@
             "url": "http://www.opensource.org/licenses/mit-license.php"
         }
     ],
-    "homepage": "http://github.com/jfparadis/requirejs-tpl"
+    "homepage": "http://github.com/Rhinofly/requirejs-tpl"
 }
